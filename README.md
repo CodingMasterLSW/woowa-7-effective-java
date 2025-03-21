@@ -13,8 +13,8 @@
 - [x] 5. [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](./02장/5_자원을_직접_명시하지_말고_의존_객체_주입을_사용하라.md) - 포라
 - [x] 6. [불필요한 객체 생성을 피하라](/02장/6_불필요한_객체_생성을_피하라.md) - 포라
 - [x] 7. [다 쓴 객체 참조를 해제하라](./02장/7_다_쓴_객체_참조를_해제하라.md) - 포라
-- [ ] 8. finalizer와 cleaner 사용을 피하라
-- [ ] 9. try-finally보다는 try-with-resources를 사용하라
+- [x] 8. [finalizer와 cleaner 사용을 피하라](./02장/8_finalizer_와_cleaner_사용을_피하라.md) - 젠슨
+- [x] 9. [try-finally보다는 try-with-resources를 사용하라](./02장/9_try_finally_보다_try_with_resources를_사용하라.md) - 젠슨
 - [x] 10. [equals는 일반 규약을 지켜 재정의하라](./03장/10_equals는_일반_규약을_지켜_재정의하라.md) - 포라
 - [ ] 11. equals를 재정의하려거든 hashCode도 재정의하라
 - [x] 12. [toString을 항상 재정의하라](./03장/12_toString을_항상_재정의하라.md) - 가이온
